@@ -1,10 +1,10 @@
-### Hi there! 👋🏼 &nbsp; I'm Artem ⏤ an freelance.👋  <br/>
+### Hi there! 👋🏼 &nbsp; I'm KOJS ⏤ an freelance.👋  <br/>
 <h3> 👨🏻‍💻 &nbsp; About Me </h3> 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs </br>
 - 🌱 &nbsp; I have a growing interest in app architecture and HTML,CSS, JavaScript, React Swift design patterns and technology</br>
 - 🔭 &nbsp; I’m currently working on freelance WEB Developer</br>
 - 🌱 &nbsp; I’m currently learning: JavaScript, React, Swift, SwiftUI, Core Data, Firebase, Combine, Almofire and etc..</br>
-- 👯 &nbsp; I’m looking to collaborate on www.devdata.org </br>
+- 👯 &nbsp; I’m looking to collaborate on www.kojs.org </br>
 - 📫 &nbsp; How to reach me: pmbiclub@gmail.com </br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -34,18 +34,12 @@
 </p>
 
 <p>
-<img align="left" alt="Swift" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/swift.png?raw=true" />
-<img align="left" alt="Xcode" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/xcode.png?raw=true" />
 <img align="left" alt="Firebase" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/firebase.png?raw=true" />
 <img align="left" alt="Git" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/git.png?raw=true" />
 <img align="left" alt="GitHub" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/github.png?raw=true" />
 <img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" /> </br>
 </p>
 
-
-
-<!--
-**DevDataOrg/DevDataOrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <!---
