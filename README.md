@@ -4,16 +4,13 @@
 - 🌱 &nbsp; I have a growing interest in app architecture and HTML,CSS, JavaScript, React Swift design patterns and technology</br>
 - 🔭 &nbsp; I’m currently working on freelance WEB Developer</br>
 - 🌱 &nbsp; I’m currently learning: JavaScript, React, and etc..</br>
-- 👯 &nbsp; I’m looking to collaborate on www.kojs.org </br>
-- 📫 &nbsp; How to reach me: pmbiclub@gmail.com </br>
+- 👯 &nbsp; I’m looking to collaborate on  </br>
+- 📫 &nbsp; How to reach me:  </br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 &nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?logo=gmail&logoColor=white&link=mailto:pmbiclub@gmail.com)](mailto:pmbiclub@gmail.com)
 
-
-[![telegram_badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtemPMBI)
 
 ### Skills
 <p align="left">
